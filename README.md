@@ -1,2 +1,2 @@
 # tipTap
-tiptap is your cute friendly self care servo robot! he makes sure ur drinking ur water, wiggles around on ur desk, politely asks for ur attention, and observes ur fascinating human movements c:
+tiptap is your cute friendly self care servo robot! he makes sure you're drinking your water, wiggles around on your desk, politely asks for your attention, and observes your fascinating human movements c:
